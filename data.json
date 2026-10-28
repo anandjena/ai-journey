@@ -1,0 +1,6 @@
+[
+    {"id": 1, "title": "Login page broken", "priority": "high", "status": "open"},
+    {"id": 2, "title": "Update logo", "priority": "low", "status": "closed"},
+    {"id": 3, "title": "Payment fails on mobile", "priority": "high", "status": "open"},
+    {"id": 4, "title": "Add dark mode", "priority": "medium", "status": "open"}
+]
